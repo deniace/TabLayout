@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/holo_blue_light</color>
+    <color name="colorPrimaryDark">@android:color/holo_blue_dark</color>
+    <color name="colorAccent">@android:color/holo_orange_dark</color>
+
+    <color name="backgroundChat">#109c00</color>
+    <color name="backgroundStatus">#0073af</color>
+    <color name="backgroundProfile">#B80000</color>
+
+</resources>
